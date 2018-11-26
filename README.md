@@ -12,7 +12,7 @@
 	- 使用`![]()`语法的话貌似`<center>`标签前后不能同时有空行？（前后同时有空行的话HTML渲染及Github渲染都显示的是插入图片的整个语法内容而非显示图片）
 	- HTML渲染不能使用`<img src="xxx.xxx" />`语法
 <center>
-![](https://github.com/hustmzp/external_link_images/raw/master/test/matlab.png)
+	![描述好像不是必须的啊！！！](https://github.com/hustmzp/external_link_images/raw/master/test/matlab.png)
 </center>
 
 - 调整图片显示大小
